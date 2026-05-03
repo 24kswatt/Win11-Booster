@@ -11,4 +11,4 @@ sudo pacman -Syu --needed \
   polkit-kde-agent \
   noto-fonts noto-fonts-emoji ttf-jetbrains-mono-nerd \
   papirus-icon-theme adwaita-cursors nwg-look \
-  lazygit tmux fzf ripgrep fd eza bat zoxide starship btop jq
+  lazygit tmux fzf ripgrep fd  bat zoxide starship btop jq htop
